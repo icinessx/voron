@@ -1,12 +1,4 @@
 # voron
----
-layout: post
-title: 通过Can更新 BIGTREETECH-OCTOPUS 和 EBB36
-category: 3D打印
-tags: Klipper Voron2.4 BIGTREETECH-OCTOPUS CanBus
-description: 让机器活起来
----
->生命不息，折腾不止！
 
 # 使用can 快速更新 设备固件
 
